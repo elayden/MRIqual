@@ -155,7 +155,7 @@ main_figure = figure('units','normalized','Position',[0.36948, 0.2541, 0.25, 0.5
 % Try loading background image:
 try 
     background = imread(fullfile(script_path,'res','background_brain.png'));
-    imagesc(background(:,:,1)); colormap('copper'); caxis([0,260]);
+    imagesc(background(:,:,1)); colormap('gray'); caxis([0,260]);
     set(gca,'Position',[0,0,1,1],'TickLength',[0,0],'XTickMode','manual',...
         'YTickMode','manual','XTick',[],'YTick',[]); grid off; 
 catch
