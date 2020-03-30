@@ -1,2 +1,2 @@
-# NeuroViz
-A Matlab GUI for MRI Image Viewing and Manipulation
+# MRIqual
+A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI brain scans
