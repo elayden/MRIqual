@@ -1,5 +1,5 @@
 # MRIqual
-A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI brain scans
+A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3725006.svg)](https://doi.org/10.5281/zenodo.3725006)
 
