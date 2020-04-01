@@ -1,7 +1,7 @@
 # MRIqual
 A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3725006.svg)](https://doi.org/10.5281/zenodo.3725006)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3735471.svg)](https://doi.org/10.5281/zenodo.3735471)
 
 If you find MRIqual useful and would like to support its continued development, feel free to send a cup of coffee! :) <br><br>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/ElliotLayden?locale.x=en_US)
