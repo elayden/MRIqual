@@ -5,7 +5,7 @@ A Matlab toolbox for examining the quality of structural (SNR) and functional (t
 
 <b>Cite:</b>
 
-Layden, E. A. (2020). MRIqual: MRIqual: A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI (Version v1.0.0-beta). Zenodo. http://doi.org/10.5281/zenodo.3735471
+Layden, E. A. (2020). MRIqual: MRIqual: A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI. Zenodo. http://doi.org/10.5281/zenodo.3735471
 
 [![DOI](https://zenodo.org/badge/250957318.svg)](https://zenodo.org/badge/latestdoi/250957318)
 
