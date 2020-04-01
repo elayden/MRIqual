@@ -1,14 +1,17 @@
 # MRIqual
 A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI
 
+[![View MRIqual on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74807-mriqual)
+
+<b>Cite:</b>
+
+Layden, E. A. (2020). MRIqual: MRIqual: A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI (Version v1.0.0-beta). Zenodo. http://doi.org/10.5281/zenodo.3735471
+
 [![DOI](https://zenodo.org/badge/250957318.svg)](https://zenodo.org/badge/latestdoi/250957318)
 
+##
 If you find MRIqual useful and would like to support its continued development, feel free to send a cup of coffee! :) <br><br>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/ElliotLayden?locale.x=en_US)
-
-View on Mathworks FileExchange:
-
-[![View MRIqual on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74807-mriqual)
 
 ## Installation / Startup
 1. Clone or download the repository
